@@ -1,0 +1,30 @@
+{
+  "name": "moonbot",
+  "version": "1.0.0",
+  "description": "MoonBot, Discord.js v14 ile geliştirilmiş, moderasyon, müzik çalma, karşılama sistemleri, otomatik yanıtlar, üye kayıt sistemi ve daha fazlasını sunan çok yönlü bir Discord botudur.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@discordjs/builders": "^1.10.1",
+    "@discordjs/collection": "^2.1.1",
+    "@discordjs/rest": "^2.4.3",
+    "@distube/soundcloud": "^2.0.4",
+    "@distube/spotify": "^2.0.2",
+    "@distube/yt-dlp": "^2.0.1",
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "discord.js": "^14.18.0",
+    "distube": "^5.0.6",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.15",
+    "mysql2": "^3.13.0",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.11.5"
+  }
+}
