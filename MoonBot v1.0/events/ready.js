@@ -10,6 +10,9 @@ module.exports = {
         
         // Komutları listele
         await displayCommandList(client);
+
+        client.user.setActivity('🌙 https://github.com/MoonDeveloping/MoonBot/tree/main');
+
     },
 };
 
