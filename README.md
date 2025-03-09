@@ -19,30 +19,7 @@ MoonBot, Discord.js ile geliştirilmiş, moderasyondan müzik çalmaya ve eğlen
   - [Kullanıcı Yönetimi]
   - [Bilet Sistemi]
   - [Özel Oda Sistemi]
-  - [Eğlence ve Yardımcı Araçlar]
   - [Otomasyon Sistemleri]
-
-## Proje Yapısı
-
-moonbot/
-│
-├── commands/             # Bot komutları kategorilere göre düzenlenmiştir
-│   ├── admin/            # Yönetici komutları
-│   ├── kullanıcı/        # Kullanıcıyla ilgili komutlar
-│   ├── müzik/            # Müzik komutları
-│   └── sistem/           # Sistem ve yapılandırma komutları
-│
-├── events/               # Olay işleyicileri
-│
-├── util/                 # Yardımcı fonksiyonlar ve işleyiciler
-│   ├── embedHandler.js   # Merkezi embed oluşturma
-│   ├── emoji.js          # Emoji yönetimi
-│   ├── localDBHandler.js # LocalDB işlemleri
-│   ├── mysqlHandler.js   # MySQL veritabanı işlemleri
-│   └── distubeClient.js  # Müzik sistemi istemcisi
-│
-├── config.json           # Bot yapılandırması
-└── emojiler.json         # Botun kullandığı emoji listesi
 
 ## Komut Sistemi
 
