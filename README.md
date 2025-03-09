@@ -63,18 +63,8 @@ DisTube kütüphanesi ile entegre edilmiş kapsamlı müzik çalma sistemi:
 - Ses filtreleri ve kontroller
 - Oynatma listesi yönetimi
 
-### Kullanıcı Yönetimi
-Kullanıcı profilleri, istatistikler ve etkileşim komutları.
-
 ### Bilet Sistemi
 Kullanıcıların destek talepleri oluşturabileceği ve yöneticilerin yanıtlayabileceği bilet sistemi.
 
 ### Özel Oda Sistemi
 Kullanıcıların kendi sesli ve metin kanallarını oluşturabileceği özel oda sistemi.
-
-### Eğlence ve Yardımcı Araçlar
-Çeşitli eğlence komutları ve günlük kullanım için yardımcı araçlar.
-
-### Otomasyon Sistemleri
-Zamanlı görevler ve otomatik moderasyon özellikleri.
-
