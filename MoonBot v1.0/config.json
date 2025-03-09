@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "clientId": "",
+    "database_type":"local",
+    "database": {
+        "host": "",
+        "port": ,
+        "user": "",
+        "password": "",
+        "database": ""
+    },
+    "advanced_commands_in_cmd": true
+}
