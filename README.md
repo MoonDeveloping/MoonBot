@@ -46,7 +46,7 @@ Yerel veritabanı işlemleri için kullanılan sistem.
 
 ## Veritabanı Sistemleri
 
-### QuickDB (LocalDB)
+### LocalDB
 Basit veriler için hızlı ve yerel JSON tabanlı veritabanı çözümü.
 
 ### MySQL Entegrasyonu
