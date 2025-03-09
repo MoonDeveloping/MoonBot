@@ -1,3 +1,5 @@
+# BAŞLAMADAN ÖNCE UYARI : Chalk modülünün şu versiyonunu kurun, npm install chalk@4
+
 # MoonBot Discord Botu
 
 MoonBot, Discord.js ile geliştirilmiş, moderasyondan müzik çalmaya ve eğlence komutlarına kadar geniş bir işlevsellik yelpazesine sahip kapsamlı bir Discord botudur. **Son resmi versiyonu değildir başka özellikler eklenecektir**
